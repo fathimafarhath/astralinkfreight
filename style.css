@@ -13,6 +13,9 @@ html,body{
     
     font-size: 40px;
 }
+a{
+    font-size: 15px;
+}
 .social-icon{
     margin: 10px;
     color: rgba(6, 6, 56, 0.871);
@@ -31,23 +34,9 @@ html,body{
 }
 
 
-
-/* #Logo img{
-    
-    padding-top: 20px;
-    
-}
-.main{
-    
-    background-color: rgba(217, 244, 245, 0.864);
+@media(max-width:400px){
+    a{
+        font-size: 10px;
+    }
 }
 
-.address{
-    color: rgb(3, 20, 47);
-}
-
-
-    
-
-
- */
