@@ -1,42 +1,51 @@
-/* body{
-    background: url("./images/bgpalin.jfif"); 
+html,body{
+    /* background: url("./images/bgpalin.jfif");  */
    
     height: 100%;
     background-size: cover; 
-} */
+} 
+
+.main{
+    
+    background-color: rgba(217, 244, 245, 0.864);
+}
+.launch{
+    
+    font-size: 40px;
+}
+.social-icon{
+    margin: 10px;
+    color: rgba(6, 6, 56, 0.871);
+}
 
 
-#Logo img{
-    width: 50%;
-    height: 70%;
+
+/* #Logo img{
+    
     padding-top: 20px;
     
 }
 .main{
-    /* background-color: rgba(155, 214, 223, 0.837); */
+    
     background-color: rgba(217, 244, 245, 0.864);
 }
-.launch{
-    font-size: 30px;
-}
+
 .address{
     color: rgb(3, 20, 47);
 }
 
 .main-footer{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     position: fixed;
     height: 70px;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  /* background-color: rgb(4, 4, 56); */
-  background-color: rgba(217, 244, 245, 0.864);
-  color: rgb(3, 20, 47);
-  text-align: center;
+    left: 0;
+     bottom: 0;
+    width: 100%;
+    background-color: rgba(217, 244, 245, 0.864);
+    color: rgb(3, 20, 47);
+    text-align: center;
   
 }
     
 
 
-
+ */
