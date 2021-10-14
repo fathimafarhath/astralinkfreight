@@ -15,12 +15,16 @@ html,body{
 }
 a{
     font-size: 15px;
+    text-decoration: none !important;
+    
 }
-.social-icon{
+a:hover{
+    text-decoration: none !important;
+}
+.social-icon {
     margin: 10px;
     color: rgba(6, 6, 56, 0.871);
 }
-
 .main-footer{
     position: fixed;
     height: 40px;
