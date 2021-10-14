@@ -44,7 +44,8 @@ a:hover{
 
 @media(max-width:416px){
     a{
-        font-size: 12px;
+        font-size: 13px;
+        font-weight: bold;
     }
 }
 
